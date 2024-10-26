@@ -1,0 +1,658 @@
+[
+    {
+        "name": "angelina christy",
+        "second_name": "christy",
+        "image": "https://telegra.ph/file/a18ce91790f1a86b25024.jpg",
+        "bio": {
+            "birthdate": "5 December 2005",
+            "zodiac": "Sagitarius",
+            "age": "18",
+            "Catchphrase":"Peduli dan berbaik hati, siapa dia? Chriiiis-ty!"
+        },
+        "socials": {
+            "instagram": "https://www.instagram.com/jkt48.christy/",
+            "tiktok": "https://www.tiktok.com/@christyjkt48",
+            "twitter": "https://x.com/A_ChristyJKT48"
+        }
+    },
+    {
+        "name": "freya jayawardana",
+        "second_name": "freya",
+        "image": "https://telegra.ph/file/ede7f8a23b81d11a6ea11.jpg",
+        "bio": {
+            "birthdate": "13 February 2006",
+            "zodiac": "Aquarius",
+            "age": "18",
+            "Catchphrase":"Gadis koleris yang suka berimajinasi, terangi harimu dengan senyum karamelku. Halo semua, Aku Freya!"
+        },
+        "socials": {
+            "instagram": "https://instagram.com/jkt48.freya",
+            "tiktok": "https://tiktok.com/@freyajkt48",
+            "twitter": "https://x.com/Freya_JKT48"
+        }
+    },
+    {
+        "name": "shania gracia",
+        "second_name": "ci gre",
+        "image": "https://telegra.ph/file/be32cf9bafd5180630158.jpg",
+        "bio": {
+            "birthdate": "31 August 1999",
+            "zodiac": "Virgo",
+            "age": "25",
+            "Catchphrase":"Senyumku akan terekam jelas dalam ingatanmu seperti foto dengan sejuta warna! Namaku Gracia, always smile! Sekali lagi? (Gracia!)"
+        },
+        "socials": {
+            "instagram": "https://instagram.com/jkt48gracia",
+            "tiktok": "https://tiktok.com/@graciajkt48",
+            "twitter": "https://x.com/S_GraciaJKT48"
+        }
+    },
+    {
+        "name": "feni fitriyani",
+        "second_name": "mpok mpen",
+        "image": "https://telegra.ph/file/1e3d6416a2de6f3c7f2d5.jpg",
+        "bio": {
+            "birthdate": "16 January 1999",
+            "zodiac": "Capricorn",
+            "age": "25",
+            "Catchphrase":"Matahari yang indah, yang akan memberikan kehangatan di setiap harinya. Panggil aku Feni."
+        },
+	"socials": {
+            "instagram": "https://instagram.com/jkt48feni",
+            "tiktok": "https://tiktok.com/@fenijkt48",
+            "twitter": "https://x.com/F_FeniJKT48"
+        }
+    },
+    {
+        "name": "Shani Indira Natio",
+        "second_name": "ci shani",
+        "image": "https://telegra.ph/file/3e36411e957693df9915d.jpg",
+        "bio": {
+            "birthdate": "5 October 1998",
+            "zodiac": "Libra",
+            "age": "26",
+            "Catchphrase":"Semanis coklat selembut sutra, Halo semuanya, aku Shani!"
+        },
+	"socials": {
+            "instagram": "https://instagram.com/_shaniindira",
+            "tiktok": "https://tiktok.com/_shaniindira",
+            "twitter": "https://x.com/_shaniindira"
+        }
+    },
+    {
+        "name": "lulu salsabilla",
+        "second_name": "lulu",
+        "image": "https://telegra.ph/file/b3f9f1d48645ecaf127b3.jpg",
+        "bio": {
+            "birthdate": "23 October 2002",
+            "zodiac": "Libra",
+            "age": "21",
+            "Catchphrase":"Terang seperti bulan, bersinar seperti bintang.. Aku Lulu!"
+        },
+	"socials": {
+            "instagram": "https://instagram.com/jkt48.lulu",
+            "tiktok": "https://tiktok.com/@lulu_jkt48",
+            "twitter": "https://x.com/A_LULUJKT48"
+        }
+    },
+    {
+        "name": "reva fidela",
+        "second_name": "adel",
+        "image": "https://telegra.ph/file/6052a253d49994bf0be99.jpg",
+        "bio": {
+            "birthdate": "14 July 2006",
+            "zodiac": "Cancer",
+            "age": "18",
+            "Catchphrase":"Bagai kucing yang kalem, tapi akan selalu memikat hati kamu. Halo semuanya, aku Adel."
+        },
+	"socials": {
+            "instagram": "https://instagram.com/jkt48.adel",
+            "tiktok": "https://tiktok.com/@adeljkt48",
+            "twitter": "https://x.com/R_ADELJKT48"
+        }
+    },
+    {
+        "name": "indah cahya",
+        "second_name": "indah",
+        "image": "https://telegra.ph/file/1a3c3b61598f10abc5ba8.jpg",
+        "bio": {
+            "birthdate": "20 march 2001",
+            "zodiac": "Pisces",
+            "age": "23",
+            "Catchphrase":"Tak banyak bicara, bercerita melalui tulisan. Halo aku Indah!"
+        },
+	"socials": {
+            "instagram": "https://instagram.com/jkt48indaah_",
+            "tiktok": "https://tiktok.com/@indahjkt48",
+            "twitter": "https://x.com/C_INDAHJKT48"
+        }
+    },
+    {
+        "name": "kathrina irene",
+        "second_name": "atin",
+        "image": "https://telegra.ph/file/3a790cd77b2d77b34ffcb.jpg",
+        "bio": {
+            "birthdate": "21 July 2005",
+            "zodiac": "Cancer",
+            "age": "",
+            "Catchphrase":""
+        },
+	"socials": {
+            "instagram": "https://instagram.com/jkt48.kathrina",
+            "tiktok": "https://tiktok.com/@kathrinajkt48",
+            "twitter": "https://x.com/I_KathrinaJKT48"
+        }
+    },
+    {
+        "name": "marsha lenathea",
+        "second_name": "matcha",
+        "image": "https://telegra.ph/file/1c4b1b7a6ab317ea456da.jpg",
+        "bio": {
+            "birthdate": "21 July 2005",
+            "zodiac": "Cancer",
+            "age": "",
+            "Catchphrase":""
+        },
+	"socials": {
+            "instagram": "https://instagram.com/jkt48.marsha",
+            "tiktok": "https://tiktok.com/@marsha.jkt48",
+            "twitter": "https://x.com/L_MarshsJKT48"
+        }
+    },
+    {
+        "name": "amanda sukma",
+        "second_name": "manda",
+        "image": "https://telegra.ph/file/e579415b04a289834621f.jpg",
+        "bio": {
+            "birthdate": "21 July 2005",
+            "zodiac": "Cancer",
+            "age": "",
+            "Catchphrase":""
+        },
+	"socials": {
+            "instagram": "https://www.instagram.com/jkt48.amanda.s/",
+            "tiktok": "https://tiktok.com/@jkt48.amanda.s",
+            "twitter": "https://x.com/PS_AmandaJKT48"
+        }
+    },
+    {
+        "name": "aurellia",
+        "second_name": "lia",
+        "image": "https://telegra.ph/file/0d0ca8b90a20a3a9605ad.jpg",
+        "bio": {
+            "birthdate": "21 July 2005",
+            "zodiac": "Cancer",
+            "age": "",
+            "Catchphrase":""
+        },
+	"socials": {
+            "instagram": "https://instagram.com/jkt48.aurellia_",
+            "tiktok": "https://tiktok.com/@jkt48.aurellia_",
+            "twitter": "https://x.com/AU_LiaJKT48"
+        }
+    },
+    {
+        "name": "callista alifia",
+        "second_name": "callie",
+        "image": "https://telegra.ph/file/482f6291a60cd8d232949.jpg",
+        "bio": {
+            "birthdate": "21 July 2005",
+            "zodiac": "Cancer",
+            "age": "",
+            "Catchphrase":""
+        },
+	"socials": {
+            "instagram": "https://instagram.com/jkt48.callie.a",
+            "tiktok": "https://tiktok.com/@jkt48.callie.a",
+            "twitter": "https://x.com/AW_CallieJKT48"
+        }
+    },
+    {
+        "name": "gabriela abigail",
+        "second_name": "ella",
+        "image": "https://telegra.ph/file/f1fb015a8242b16acbc2f.jpg",
+        "bio": {
+            "birthdate": "21 July 2005",
+            "zodiac": "Cancer",
+            "age": "",
+            "Catchphrase":""
+        },
+	"socials": {
+            "instagram": "https://instagram.com/jkt48.ella.a",
+            "tiktok": "https://tiktok.com/@jkt48.ella.a",
+            "twitter": "https://x.com/AM_EllaJKT48"
+        }
+    },
+    {
+        "name": "indira putri",
+        "second_name": "dira",
+        "image": "https://telegra.ph/file/6e9f3092b06060eb2fd97.jpg",
+        "bio": {
+            "birthdate": "21 July 2005",
+            "zodiac": "Cancer",
+            "age": "",
+            "Catchphrase":""
+        },
+	"socials": {
+            "instagram": "https://instagram.com/jkt48.indira.s",
+            "tiktok": "https://tiktok.com/@jkt48.indira.s",
+            "twitter": "https://x.com/SP_IndiraJKT48"
+        }
+    },
+    {
+        "name": "jesslyn elly",
+        "second_name": "lyn",
+        "image": "https://telegra.ph/file/08c5973e844e22c4b1cfd.jpg",
+        "bio": {
+            "birthdate": "21 July 2005",
+            "zodiac": "Cancer",
+            "age": "",
+            "Catchphrase":""
+        },
+	"socials": {
+            "instagram": "https://instagram.com/jkt48.lyn.s",
+            "tiktok": "https://tiktok.com/@jkt48.lyn.s",
+            "twitter": "https://x.com/SE_LynJKT48"
+        }
+    },
+    {
+        "name": "raisha syifa",
+        "second_name": "raisha",
+        "image": "https://telegra.ph/file/59dc73f9c2588e167386c.jpg",
+        "bio": {
+            "birthdate": "21 July 2005",
+            "zodiac": "Cancer",
+            "age": "",
+            "Catchphrase":""
+        },
+	"socials": {
+            "instagram": "https://instagram.com/jkt48.raisha.s",
+            "tiktok": "https://tiktok.com/@jkt48.raisha.s",
+            "twitter": "https://x.com/SW_RaishaJKT48"
+        }
+    },
+    {
+        "name": "alya amanda",
+        "second_name": "alya",
+        "image": "https://telegra.ph/file/ae3ac658dfe04d3daa5d7.jpg",
+        "bio": {
+            "birthdate": "21 July 2005",
+            "zodiac": "Cancer",
+            "age": "",
+            "Catchphrase":""
+        },
+	"socials": {
+            "instagram": "https://instagram.com/jkt.alya_",
+            "tiktok": "https://tiktok.com/@alyajkt48",
+            "twitter": "https://x.com/AA_AlyaJKT48"
+        }
+    },
+    {
+        "name": "anindya ramadhani",
+        "second_name": "anin",
+        "image": "https://telegra.ph/file/43b0eacbece79d3c26f41.jpg",
+        "bio": {
+            "birthdate": "21 July 2005",
+            "zodiac": "Cancer",
+            "age": "",
+            "Catchphrase":""
+        },
+	"socials": {
+            "instagram": "https://instagram.com/jkt48.anindya_",
+            "tiktok": "https://tiktok.com/@anindyajkt48",
+            "twitter": "https://x.com/AR_AnindyaJKT48"
+        }
+    },
+    {
+        "name": "cathleen nixie",
+        "second_name": "cathy",
+        "image": "https://telegra.ph/file/54c2d556973aebb227067.jpg",
+        "bio": {
+            "birthdate": "21 July 2005",
+            "zodiac": "Cancer",
+            "age": "",
+            "Catchphrase":""
+        },
+	"socials": {
+            "instagram": "https://instagram.com/jkt.cathy",
+            "tiktok": "https://tiktok.com/@cathyjkt48",
+            "twitter": "https://x.com/N_CathyJKT48"
+        }
+    },
+    {
+        "name": "celline thefani",
+        "second_name": "elin",
+        "image": "https://telegra.ph/file/031f33bdfc20620948194.jpg",
+        "bio": {
+            "birthdate": "21 July 2005",
+            "zodiac": "Cancer",
+            "age": "",
+            "Catchphrase":""
+        },
+	"socials": {
+            "instagram": "https://instagram.com/jkt48.elin_",
+            "tiktok": "https://tiktok.com/@elinjkt48",
+            "twitter": "https://x.com/Elin_JKT48"
+        }
+    },
+    {
+        "name": "chelsea davina",
+        "second_name": "chelsea",
+        "image": "https://telegra.ph/file/8e6b0a4c0b2cf9b203620.jpg",
+        "bio": {
+            "birthdate": "21 July 2005",
+            "zodiac": "Cancer",
+            "age": "",
+            "Catchphrase":""
+        },
+	"socials": {
+            "instagram": "https://instagram.com/jkt48.chelsea.d",
+            "tiktok": "https://tiktok.com/@_chelseajkt48",
+            "twitter": "https://x.com/DC_ChelseaJKT48"
+        }
+    },
+    {
+        "name": "oline manuel",
+        "second_name": "oline",
+        "image": "https://telegra.ph/file/9b0306d562d98f76686c9.jpg",
+        "bio": {
+            "birthdate": "21 July 2005",
+            "zodiac": "Cancer",
+            "age": "",
+            "Catchphrase":""
+        },
+	"socials": {
+            "instagram": "https://instagram.com/jkt48.oline",
+            "tiktok": "https://tiktok.com/@jkt48.oline",
+            "twitter": "https://x.com/M_OlineJKT48"
+        }
+    },
+    {
+        "name": "azizi asadel",
+        "second_name": "zee",
+        "image": "https://telegra.ph/file/accf2b49314422455d739.jpg",
+        "bio": {
+            "birthdate": "21 July 2005",
+            "zodiac": "Cancer",
+            "age": "",
+            "Catchphrase":""
+        },
+	"socials": {
+            "instagram": "https://instagram.com/zeeasadel",
+            "tiktok": "https://tiktok.com/@zeejkt48",
+            "twitter": "https://x.com/_zeeasadel"
+        }
+    },
+    {
+        "name": "flora shafiq",
+        "second_name": "flo",
+        "image": "https://telegra.ph/file/f430d6db8d7c21b4d9be2.jpg",
+        "bio": {
+            "birthdate": "21 July 2005",
+            "zodiac": "Cancer",
+            "age": "",
+            "Catchphrase":""
+        },
+	"socials": {
+            "instagram": "https://instagram.com/jkt48.flora",
+            "tiktok": "https://tiktok.com/@florajkt48",
+            "twitter": "https://x.com/S_FloraJKT48"
+        }
+    },
+    {
+        "name": "fiony alveria",
+        "second_name": "cepio",
+        "image": "https://telegra.ph/file/7d6fd80c2a5968b7b2a55.jpg",
+        "bio": {
+            "birthdate": "21 July 2005",
+            "zodiac": "Cancer",
+            "age": "",
+            "Catchphrase":""
+        },
+	"socials": {
+            "instagram": "https://instagram.com/jkt48.fiony",
+            "tiktok": "https://tiktok.com/@fionyjkt48",
+            "twitter": "https://x.com/A_FionJKT48"
+        }
+    },
+    {
+        "name": "nabilah ayu",
+        "second_name": "nabilah",
+        "image": "https://telegra.ph/file/c7485e34bb121f8c1e384.jpg",
+        "bio": {
+            "birthdate": "21 July 2005",
+            "zodiac": "Cancer",
+            "age": "",
+            "Catchphrase":""
+        },
+	"socials": {
+            "instagram": "https://instagram.com/nblh.ayu",
+            "tiktok": "https://tiktok.com/@nblh.ayu",
+            "twitter": "https://x.com/nblh_ayu"
+        }
+    },
+    {
+        "name": "melody nurrahmadani",
+        "second_name": "melody",
+        "image": "https://telegra.ph/file/e6daebca772c65f581da4.jpg",
+        "bio": {
+            "birthdate": "21 July 2005",
+            "zodiac": "Cancer",
+            "age": "",
+            "Catchphrase":""
+        },
+	"socials": {
+            "instagram": "https://instagram.com/melodylaksani92",
+            "tiktok": "https://tiktok.com/@melodylaksanii",
+            "twitter": "https://x.com/MelodyLaksani"
+        }
+    },
+    {
+        "name": "haruka nakagawa",
+        "second_name": "haruka",
+        "image": "https://telegra.ph/file/31663bcafe62ef1ccb0c4.jpg",
+        "bio": {
+            "birthdate": "21 July 2005",
+            "zodiac": "Cancer",
+            "age": "",
+            "Catchphrase":""
+        },
+	"socials": {
+            "instagram": "https://instagram.com/haruuuu_chan",
+            "tiktok": "https://tiktok.com/@haruchan210",
+            "twitter": "https://x.com/Haruka_NKGW10"
+        }
+    },
+    {
+        "name": "gita sekar",
+        "second_name": "gits",
+        "image": "https://telegra.ph/file/6e48ee86461ec016c03f0.jpg",
+        "bio": {
+            "birthdate": "21 July 2005",
+            "zodiac": "Cancer",
+            "age": "",
+            "Catchphrase":""
+        },
+	"socials": {
+            "instagram": "https://instagram.com/jkt48gita",
+            "tiktok": "https://tiktok.com/@gitajkt48",
+            "twitter": "https://x.com/A_GitaJKT48"
+        }
+    },
+    {
+        "name": "febriola sinambela",
+        "second_name": "olla",
+        "image": "https://telegra.ph/file/0afe050e110814ba211ab.jpg",
+        "bio": {
+            "birthdate": "21 July 2005",
+            "zodiac": "Cancer",
+            "age": "",
+            "Catchphrase":""
+        },
+	"socials": {
+            "instagram": "https://instagram.com/jkt48.olla",
+            "tiktok": "https://tiktok.com/@ollajkt48",
+            "twitter": "https://x.com/F_OllaJKT48"
+        }
+    },
+    {
+        "name": "jessica chandra",
+        "second_name": "jessi",
+        "image": "https://telegra.ph/file/e88b792cc054c1b7e9b70.jpg",
+        "bio": {
+            "birthdate": "21 July 2005",
+            "zodiac": "Cancer",
+            "age": "",
+            "Catchphrase":""
+        },
+	"socials": {
+            "instagram": "https://instagram.com/jkt48.jessi",
+            "tiktok": "https://tiktok.com/@jessijkt48",
+            "twitter": "https://x.com/C_JessiJKT48"
+        }
+    },
+    {
+        "name": "yessica tamara",
+        "second_name": "chika",
+        "image": "https://telegra.ph/file/6ecb0a27777459a982176.jpg",
+        "bio": {
+            "birthdate": "21 July 2005",
+            "zodiac": "Cancer",
+            "age": "",
+            "Catchphrase":""
+        },
+	"socials": {
+            "instagram": "https://instagram.com/ye.chika",
+            "tiktok": "https://tiktok.com/@yessicatamara_24",
+            "twitter": "https://x.com/Y_ChikaJKT48"
+        }
+    },
+    {
+        "name": "mutiara azzahra",
+        "second_name": "muthe",
+        "image": "https://telegra.ph/file/d4de23f47ac2abd56f0ef.jpg",
+        "bio": {
+            "birthdate": "21 July 2005",
+            "zodiac": "Cancer",
+            "age": "",
+            "Catchphrase":""
+        },
+	"socials": {
+            "instagram": "https://instagram.com/jkt48.muthe_",
+            "tiktok": "https://tiktok.com/@muthejkt48",
+            "twitter": "https://x.com/A_MutheJKT48"
+        }
+    },
+    {
+        "name": "helisma putri",
+        "second_name": "eli",
+        "image": "https://telegra.ph/file/d46c319257b6008036dd5.jpg",
+        "bio": {
+            "birthdate": "21 July 2005",
+            "zodiac": "Cancer",
+            "age": "",
+            "Catchphrase":""
+        },
+	"socials": {
+            "instagram": "https://instagram.com/jkt48.ei",
+            "tiktok": "https://tiktok.com/@elijkt48",
+            "twitter": "https://x.com/H_EliJKT48"
+        }
+    },
+    {
+        "name": "cornelia vanisa",
+        "second_name": "oniel",
+        "image": "https://telegra.ph/file/c7d93dacd2b93a3354ac6.jpg",
+        "bio": {
+            "birthdate": "21 July 2005",
+            "zodiac": "Cancer",
+            "age": "",
+            "Catchphrase":""
+        },
+	"socials": {
+            "instagram": "https://instagram.com/jkt48.oniel",
+            "tiktok": "https://tiktok.com/@onieljkt48",
+            "twitter": "https://x.com/C_OnielJKT48"
+        }
+    },
+    {
+        "name": "fritzy rosmerian",
+        "second_name": "fritzy",
+        "image": "https://telegra.ph/file/f759fc6fd8b323c623d09.jpg",
+        "bio": {
+            "birthdate": "21 July 2005",
+            "zodiac": "Cancer",
+            "age": "",
+            "Catchphrase":""
+        },
+	"socials": {
+            "instagram": "https://instagram.com/jkt48.fritzy.r",
+            "tiktok": "https://tiktok.com/@jkt48.fritzy",
+            "twitter": "https://x.com/RFritzy_JK48"
+        }
+    },
+    {
+        "name": "abigail rachel",
+        "second_name": "aralie",
+        "image": "https://telegra.ph/file/985dd614b6232b75d88f8.jpg",
+        "bio": {
+            "birthdate": "21 July 2005",
+            "zodiac": "Cancer",
+            "age": "",
+            "Catchphrase":""
+        },
+	"socials": {
+            "instagram": "https://instagram.com/jkt48.aralie",
+            "tiktok": "https://tiktok.com/@jkt48.aralie",
+            "twitter": "https://x.com/Aralie_JKT48"
+        }
+    },
+    {
+        "name": "michelle alexandra",
+        "second_name": "michie",
+        "image": "https://telegra.ph/file/2d033301493a79ae2e807.jpg",
+        "bio": {
+            "birthdate": "21 July 2005",
+            "zodiac": "Cancer",
+            "age": "",
+            "Catchphrase":""
+        },
+	"socials": {
+            "instagram": "https://instagram.com/jkt48.michie_",
+            "tiktok": "https://tiktok.com/@michiejkt48",
+            "twitter": "https://x.com/Michie_JKT48"
+        }
+    },
+    {
+        "name": "greesella adhalia",
+        "second_name": "greesel",
+        "image": "https://telegra.ph/file/0451cb0265e424de8e102.jpg",
+        "bio": {
+            "birthdate": "21 July 2005",
+            "zodiac": "Cancer",
+            "age": "",
+            "Catchphrase":""
+        },
+	"socials": {
+            "instagram": "https://instagram.com/jkt48.greesel",
+            "tiktok": "https://tiktok.com/@greeseljkt48",
+            "twitter": "https://x.com/Greesel_JKT48"
+        }
+    },
+    {
+        "name": "grace oktaviani",
+        "second_name": "gracie",
+        "image": "https://telegra.ph/file/7c41cd3dc0adb24dcf7a6.jpg",
+        "bio": {
+            "birthdate": "18 Oktober 2007",
+            "zodiac": "Libra",
+            "age": "",
+            "Catchphrase":""
+        },
+	"socials": {
+            "instagram": "https://instagram.com/jkt48.gracie",
+            "tiktok": "https://tiktok.com/@graciejkt48",
+            "twitter": "https://x.com/Gracie_JKT48"
+        }
+    }
+]

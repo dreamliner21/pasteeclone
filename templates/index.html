@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beranda</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css">
+    <style>
+        /* Animasi untuk ikon */
+        .icon-anim {
+            transition: transform 0.3s ease;
+        }
+        .icon-anim:hover {
+            transform: scale(1.2);
+        }
+        /* Card hover efek */
+        .card-hover:hover {
+            background-color: #f0f4f8;
+            transform: translateY(-5px);
+            transition: all 0.3s ease;
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+        }
+    </style>
+</head>
+<body class="bg-gray-100 min-h-screen flex items-center justify-center">
+    <div class="container mx-auto px-4">
+        <h1 class="text-3xl font-bold text-center mb-8">Selamat Datang di Paste&Upload By Paul</h1>
+        
+        <div class="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
+            <!-- Card untuk Buat Paste -->
+            <div class="bg-white rounded-lg shadow-lg p-6 text-center card-hover">
+                <i class="bi bi-clipboard-plus-fill text-blue-500 text-4xl icon-anim mb-4"></i>
+                <h2 class="text-lg font-semibold mb-2">Buat Paste Baru</h2>
+                <p class="text-gray-500 mb-4">Buat dan simpan paste baru dengan mudah.</p>
+                <a href="/paste" class="bg-blue-500 text-white px-4 py-2 rounded inline-block">Buat Paste</a>
+            </div>
+
+            <!-- Card untuk Upload File -->
+            <div class="bg-white rounded-lg shadow-lg p-6 text-center card-hover">
+                <i class="bi bi-cloud-upload-fill text-green-500 text-4xl icon-anim mb-4"></i>
+                <h2 class="text-lg font-semibold mb-2">Upload File</h2>
+                <p class="text-gray-500 mb-4">Unggah file Anda untuk dibagikan dengan mudah.</p>
+                <a href="/upload" class="bg-green-500 text-white px-4 py-2 rounded inline-block">Upload File</a>
+            </div>
+
+            <!-- Card untuk Melihat Paste -->
+            <div class="bg-white rounded-lg shadow-lg p-6 text-center card-hover">
+                <i class="bi bi-folder-fill text-purple-500 text-4xl icon-anim mb-4"></i>
+                <h2 class="text-lg font-semibold mb-2">Lihat Paste</h2>
+                <p class="text-gray-500 mb-4">Temukan dan lihat paste yang telah disimpan.</p>
+                <a href="/view_paste" class="bg-purple-500 text-white px-4 py-2 rounded inline-block">Lihat Paste</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
