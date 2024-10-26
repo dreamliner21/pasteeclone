@@ -1,2 +1,4 @@
 Flask
-Werkzeug
+werkzeug
+pymongo[srv]
+python-dotenv
