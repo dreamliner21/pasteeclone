@@ -33,9 +33,6 @@ def paste():
         if project_name == "custom":
             project_name = request.form.get('custom_project_name').strip()
 
-        # Debug: Print nilai project_name dan content
-        print(f"Project Name: '{project_name}', Content Length: {len(content)}")
-
         # Validasi input
         if not content:
             return "Konten tidak boleh kosong.", 400
@@ -44,21 +41,14 @@ def paste():
 
         # Cek apakah nama proyek sudah digunakan
         paste_file_path = os.path.join(PASTE_FOLDER, f"{project_name}.txt")
-        print(f"Checking if project file exists at: {paste_file_path}")
-
-        # Cek file
         if os.path.exists(paste_file_path):
             return "Nama proyek sudah ada. Gunakan nama lain.", 400
-        else:
-            print(f"File does not exist, proceeding to save.")
 
         # Simpan paste ke dalam file
         try:
             with open(paste_file_path, 'w') as paste_file:
                 paste_file.write(content)
-            print(f"Paste saved successfully as: {paste_file_path}")
         except Exception as e:
-            print(f"Error saving paste: {e}")
             return "Terjadi kesalahan saat menyimpan paste.", 500
 
         return redirect(url_for('view_paste', project_name=project_name))
