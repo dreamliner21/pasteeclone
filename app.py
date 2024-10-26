@@ -1,10 +1,20 @@
-from flask import Flask, render_template, request, redirect, url_for, send_from_directory
+from flask import Flask, render_template, request, redirect, url_for, jsonify
 from werkzeug.utils import secure_filename
+from pymongo import MongoClient
+from dotenv import load_dotenv
 import os
 import random
 import string
 
+load_dotenv()  # Load .env variables
+
 app = Flask(__name__)
+
+# MongoDB Configuration
+MONGODB_URI = os.getenv("MONGODB_URI")
+client = MongoClient(MONGODB_URI)
+db = client['pastes']
+pastes_collection = db['pastes_collection']
 
 # Konfigurasi folder untuk menyimpan file dan paste
 UPLOAD_FOLDER = 'uploads'  # Folder untuk menyimpan file yang di-upload
